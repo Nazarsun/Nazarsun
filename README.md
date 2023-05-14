@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nazar
 - 👀 I’m interested in learning some skills in different programming languages
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++/C#
 
 
 <!---
